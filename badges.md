@@ -1,0 +1,5 @@
+![https://img.shields.io/badge/-paper-blue](https://img.shields.io/badge/-paper-blue)
+![https://img.shields.io/badge/-API-green](https://img.shields.io/badge/-framework-grey)
+![https://img.shields.io/badge/-websockets-green](https://img.shields.io/badge/-websockets-green)
+![https://img.shields.io/badge/-WebRTC-red](https://img.shields.io/badge/-WebRTC-red)
+![https://img.shields.io/badge/-p2p-blue](https://img.shields.io/badge/-p2p-blue)
