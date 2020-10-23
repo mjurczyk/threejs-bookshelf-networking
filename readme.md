@@ -2,12 +2,16 @@
 
 ### Collection of resources and papers about writing multiplayer games and experiences in three.js
 
----
-
 (non-affiliate links only / github links whenever available / badges linked in separate file)
 
 ## Contents
 
+- [General Multiplayer Architecture](#general-multiplayer-architecture)
+- [Bots / Non-player Controlled Characters](#bots---non-player-controlled-characters)
+- [Node / JavaScript Frameworks](#node---javascript-frameworks)
+- [Showcase (Open-Source Multiplayer Projects)](#showcase--open-source-multiplayer-projects-)
+- [Cloud Services](#cloud-services)
+- [Books](#books)
 
 ---
 
