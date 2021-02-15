@@ -24,7 +24,9 @@
 - [Networked Physics in VR by Glenn Fiedler](https://gafferongames.com/post/networked_physics_in_virtual_reality/) ![https://img.shields.io/badge/-paper-blue](https://img.shields.io/badge/-paper-blue)
 - [Multiplayer State Interpolation by Gabriel Gambetta](https://www.gabrielgambetta.com/entity-interpolation.html) ![https://img.shields.io/badge/-paper-blue](https://img.shields.io/badge/-paper-blue)
 - [Writing WebSocket Client Applications](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications) ![https://img.shields.io/badge/-paper-blue](https://img.shields.io/badge/-paper-blue)
-- [WebRTC vs WebSockets](https://bloggeek.me/webrtc-vs-websockets/) ![https://img.shields.io/badge/-paper-blue](https://img.shields.io/badge/-paper-blue)
+- [UDP vs TCP by Glenn Fiedler](https://gafferongames.com/post/udp_vs_tcp/) ![https://img.shields.io/badge/-paper-blue](https://img.shields.io/badge/-paper-blue)
+- [WebRTC vs WebSockets by Tsahi Levent-Levi](https://bloggeek.me/webrtc-vs-websockets/) ![https://img.shields.io/badge/-paper-blue](https://img.shields.io/badge/-paper-blue)
+- [Making Autotable by Paweł Marczewski](https://pwmarcz.pl/blog/autotable/) ![https://img.shields.io/badge/-paper-blue](https://img.shields.io/badge/-paper-blue)
 
 ## Bots / Non-player Controlled Characters
 
@@ -40,9 +42,11 @@
 - [geckosio/geckos.io](https://github.com/geckosio/geckos.io): 🦎 Real-time client/server communication over UDP using WebRTC and Node.js ![https://img.shields.io/badge/-WebRTC-red](https://img.shields.io/badge/-WebRTC-red)
 - [peers/peerjs](https://github.com/peers/peerjs): Simple peer-to-peer with WebRTC ![https://img.shields.io/badge/-WebRTC-red](https://img.shields.io/badge/-WebRTC-red) ![https://img.shields.io/badge/-p2p-blue](https://img.shields.io/badge/-p2p-blue)
 - [croquet/croquet.js](https://www.croquet.io/): ([npm](https://www.npmjs.com/package/@croquet/croquet)) Multiuser state synchronization ![https://img.shields.io/badge/-API-green](https://img.shields.io/badge/-framework-grey) ![https://img.shields.io/badge/-API-green](https://img.shields.io/badge/-SaaS-black)
+- [oguzeroglu/rhubarb](https://github.com/oguzeroglu/Rhubarb): WebSocket library optimized for multiplayer games ![https://img.shields.io/badge/-API-green](https://img.shields.io/badge/-framework-grey)
 
 ## Showcase (Open-Source Multiplayer Projects)
 - [mozilla/hubs](https://github.com/mozilla/hubs): Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame
+- [pwmarcz/autotable](https://github.com/pwmarcz/autotable): Autotable - a multiplayer mahjong tabletop simulator
 
 ## Cloud Services
 
