@@ -27,6 +27,7 @@
 - [UDP vs TCP by Glenn Fiedler](https://gafferongames.com/post/udp_vs_tcp/) ![https://img.shields.io/badge/-paper-blue](https://img.shields.io/badge/-paper-blue)
 - [WebRTC vs WebSockets by Tsahi Levent-Levi](https://bloggeek.me/webrtc-vs-websockets/) ![https://img.shields.io/badge/-paper-blue](https://img.shields.io/badge/-paper-blue)
 - [Making Autotable by Paweł Marczewski](https://pwmarcz.pl/blog/autotable/) ![https://img.shields.io/badge/-paper-blue](https://img.shields.io/badge/-paper-blue)
+- [How to Build a Multiplayer (.io) Web Game by Victor Zhou](https://victorzhou.com/blog/build-an-io-game-part-2/) ![https://img.shields.io/badge/-paper-blue](https://img.shields.io/badge/-paper-blue)
 
 ## Bots / Non-player Controlled Characters
 
